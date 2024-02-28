@@ -1,6 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
+// this is cmt in HAN branch
 
+function hi(){
+  console.log("Hello word")
+}
 
 function App() {
   return (
